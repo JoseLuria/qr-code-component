@@ -3,7 +3,7 @@ QR Code Component Challenge from Frontend Mentor
 
 ## 🖼️ Screenshots
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./images/capture-page.png)
 
 ## 🚀 Usage
 Clone the repository and open with live server
