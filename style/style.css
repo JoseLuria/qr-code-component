@@ -38,13 +38,13 @@ body {
 }
 
 .card-title {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   margin: 0 0.5rem 1rem;
   color: var(--dark-blue);
 }
 
 .card-description {
-  font-size: 0.938;
+  font-size: 0.9;
   margin: 0 1rem;
   color: var(--grayish-blue)
 }
