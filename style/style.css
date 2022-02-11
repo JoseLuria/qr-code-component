@@ -40,9 +40,11 @@ body {
 .card-title {
   font-size: 1.3rem;
   margin: 0 0.5rem 1rem;
+  color: var(--dark-blue);
 }
 
 .card-description {
   font-size: 0.938;
   margin: 0 1rem;
+  color: var(--grayish-blue)
 }
